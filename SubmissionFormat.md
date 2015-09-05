@@ -6,7 +6,7 @@ Here’s the elevator pitch: "A short tagline for the project"
 
 It's built with: "Languages, hardware, APIs, hosts, libraries, UI kits, and frameworks"
 
-The team: "Add here"
+The team: "names here"
 
 Here's the whole story: 
 "##Inspiration. Refer to: http://daringfireball.net/projects/markdown/syntax"
@@ -15,7 +15,7 @@ Pos-Chair is a pillowcase that turns any chair into a 'smart chair' for correcti
 
 According to the NY Times article "Sit Up Straight. Your Back Thanks You," up to 80 percent of Americans experience back pain at some point in their lives, and each year 15 percent of all adults are treated for such problems as herniated discs, spinal stenosis or lumbar pain...Back pain is notoriously difficult, and expensive, to remedy.
 
-The Pos-Chair pillowcase integrates force sensors to determine a person's weight distribution on the chair and a ping sensor to determine a person's distance from the back of the chair. (something about how spark is connected here) Depending on distance and force distribution, the user will see 'good' or 'bad' posture in the graphical display which occurs in real time in our Pos-Chair iOS app.  We have also created a web application that (mention here).   that promotes collaboration by integrating schedules, messaging, and document sharing into a unified workspace. 
+The Pos-Chair pillowcase integrates force sensors to determine a person's weight distribution on the chair and a ping sensor to determine a person's distance from the back of the chair. (something about how spark is connected here) Depending on distance and force distribution, the user will see 'good' or 'bad' posture in the graphical display which occurs in real time in our Pos-Chair iOS app.  We have also created a web application that (mention here). (additional important info)
 
 (how app works here demo through words)
 
