@@ -9,7 +9,7 @@ Here’s the elevator pitch: "()"
 {
 Pos-Chair is a seat cover with force sensors that interacts with Sparkcore and our iOS and web applications in real time to graphically help people fix their posture to eliminate back pain, improving overall health. 
 
-Pos-Chair is a cross platform solution that communicates through force sensors on a seat cover to provide real time data of  posture to our iOS and web applications. Our is a portable, simple solution that will teach and help people to fix their posture to eliminate back pain, improving overall health. 
+Pos-Chair is a cross platform solution that communicates through force sensors on a seat cover to provide real time data of  posture to our iOS and web applications. Our solution offers portablility and a simple user interface that will teach and help people to fix their posture to eliminate back pain, improving overall health. 
 
 Pos-Chair is...
 }
