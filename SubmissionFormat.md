@@ -19,7 +19,7 @@ It's built with: "Languages, hardware, APIs, hosts, libraries, UI kits, and fram
 
 Mobile: iOS, Swift; 
 Hardware: round force sensors, Spark/Particle core; 
-Web: JavaScript/jQuery, Linode SSD Cloud hosting, .co, HTML/CSS, Canvas JS, Google charts, Node.JS, Spark API for Node.JS;
+Web: JavaScript/jQuery, Linode SSD Cloud hosting, .co, HTML/CSS, Canvas JS, Google charts, Node.JS, Spark API for Node.JS; Graphics: Photoshop;
 
 The team: "Gopinath Danda, Paul Masih Das, Zach Kaplan, Laura Fulton"
 
