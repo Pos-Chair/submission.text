@@ -7,8 +7,12 @@ I'm developing a project called: "Pos-Chair"
 Here’s the elevator pitch: "A short tagline for the project"
 
 It's built with: "Languages, hardware, APIs, hosts, libraries, UI kits, and frameworks"
+(tent.list)
+Mobile: iOS, Swift; 
+Hardware: round force sensors, Spark/Particle core; 
+Web: JavaScript/jQuery, Linode SSD Cloud hosting, .co, HTML/CSS, Canvas JS, Google charts, Node.JS, Spark API for Node.JS;
 
-The team: "names here"
+The team: "Gopinath Danda, Paul Masih Das, Zach Kaplan, Laura Fulton"
 
 Here's the whole story: 
 "##Inspiration. Refer to: http://daringfireball.net/projects/markdown/syntax"
