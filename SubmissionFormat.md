@@ -51,10 +51,10 @@ We experienced a number of unforeseen setbacks such as outdated API’s and malf
 ## Our accomplishments
 There was a critical point during our project when we made the decision to abandon our relentless efforts with a particular distance sensor. However, our ability to work together as a team of innovators allowed us to bypass the problem by implementing other hardware in a unique way to obtain other valuable posture-related information.
 
-#What we learned
+## What we learned
 Over the past two days, we were extremely lucky to be able to interact with some of the best hackers in the world. From iOS to Particle to web server operations, each of us was able to pursue our own interests while creating a societally beneficial project with advice from both our peers and leading industry experts. 
 
-#What's next for Pos-Chair
+## What's next for Pos-Chair
 In order to make our cross-platform app more powerful, we plan to connect more sensors to our Particle IoT device. This would provide us with more information of the user’s long-term habits, needs, and progress, thus enabling the app to suggest improved ways in mitigating posture-related pain.
 
 Try it out: "URL for demo site, app store listing, GitHub repo, etc."
