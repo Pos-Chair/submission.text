@@ -9,15 +9,6 @@ Here’s the elevator pitch: "()"
 {
 IoT seat cover that graphically helps users correct their posture in real-time, erradicating the problem of back pain
 
-Seat cover with force sensors that interacts w/Sparkcore, our iOS, & web apps in real time to graphically help people fix posture & eliminate back pain
-
-Seat cover with force sensors interacting with Sparkcore, our iOS, & web apps in real time to graphically help fix people's posture to eliminate back pain, improving overall health"
-
-Pos-Chair is a seat cover with force sensors that interacts with Sparkcore and our iOS and web applications in real time to graphically help people fix their posture to eliminate back pain, improving overall health. 
-
-Pos-Chair is a cross platform solution that communicates through force sensors on a seat cover to provide real time data of  posture to our iOS and web applications. Our solution offers portablility and a simple user interface that will teach and help people to fix their posture to eliminate back pain, improving overall health. 
-
-Pos-Chair is...
 }
 
 It's built with: "Languages, hardware, APIs, hosts, libraries, UI kits, and frameworks"
@@ -28,9 +19,6 @@ Hardware: round force sensors, Spark/Particle core;
 Web: JavaScript/jQuery, Linode SSD Cloud hosting, .co, HTML/CSS, Canvas JS, Google charts, Node.JS, Spark API for Node.JS; Graphics: Photoshop;
 
 The team: "Gopinath Danda, Paul Masih Das, Zach Kaplan, Laura Fulton"
-
-Here's the whole story: 
-"##Inspiration. Refer to: http://daringfireball.net/projects/markdown/syntax"
 
 ## Inspiration
 Pos-Chair is a seat cover with force sensors that interact with Sparkcore and our iOS and web applications in real time to graphically help people fix their posture to eliminate back pain, improving overall health. 
